@@ -21,6 +21,6 @@ I am currently looking for intern, graduate, or junior opportunities in Hong Kon
 
 ## Tooling
 
-`Java` `Go` `Solidity` `Python` `TypeScript` `Spring Boot` `MySQL` `Kafka` `Redis` `Foundry` `Hardhat` `Docker` `Linux`
+`Java` `Go` `Solidity` `TypeScript` `Spring Boot` `MySQL` `Kafka` `Redis` `Foundry` `Hardhat` `Docker` `Linux`
 
 Most repositories here are engineering or course prototypes. Their READMEs distinguish implemented behavior, test evidence, and production capabilities that are intentionally out of scope.
